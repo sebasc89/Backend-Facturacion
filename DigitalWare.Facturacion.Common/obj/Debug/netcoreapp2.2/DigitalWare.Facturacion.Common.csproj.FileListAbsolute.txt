@@ -1,0 +1,13 @@
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\bin\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.deps.json
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\bin\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.runtimeconfig.json
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\bin\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.runtimeconfig.dev.json
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\bin\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\bin\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\obj\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.Resources.GlobalResource.resources
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\obj\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.csproj.GenerateResource.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\obj\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.AssemblyInfoInputs.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\obj\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.AssemblyInfo.cs
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\obj\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.csproj.CoreCompileInputs.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\obj\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\obj\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Common\obj\Debug\netcoreapp2.2\DigitalWare.Facturacion.Common.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.deps.json
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Common.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Infrastructure.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Common.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Infrastructure.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.csprojAssemblyReference.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.AssemblyInfoInputs.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.AssemblyInfo.cs
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.csproj.CoreCompileInputs.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.csproj.CopyComplete
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Config\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Config.pdb

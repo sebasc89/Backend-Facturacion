@@ -1,0 +1,14 @@
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.deps.json
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Common.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Infrastructure.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Common.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\bin\Debug\netcoreapp3.1\DigitalWare.Facturacion.Infrastructure.pdb
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.csprojAssemblyReference.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.AssemblyInfoInputs.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.AssemblyInfo.cs
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.csproj.CoreCompileInputs.cache
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.csproj.CopyComplete
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.dll
+C:\Users\BGinvestments\Documents\Prueba Digital Ware\DigitalWare.Facturacion\DigitalWare.Facturacion.Domain\obj\Debug\netcoreapp3.1\DigitalWare.Facturacion.Domain.pdb

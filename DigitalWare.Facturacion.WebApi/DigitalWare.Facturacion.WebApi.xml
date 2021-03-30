@@ -1,0 +1,120 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DigitalWare.Facturacion.WebApi</name>
+    </assembly>
+    <members>
+        <member name="T:DigitalWare.Facturacion.WebApi.Controllers.CategoryController">
+            <summary>
+            Controller to Category
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.CategoryController._globalLocalizer">
+            <summary>
+            IStringLocalizer
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.CategoryController._configuration">
+            <summary>
+            IConfiguration
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.CategoryController._categoryService">
+            <summary>
+            ICategoryService
+            </summary>
+        </member>
+        <member name="M:DigitalWare.Facturacion.WebApi.Controllers.CategoryController.#ctor(Microsoft.Extensions.Localization.IStringLocalizer{DigitalWare.Facturacion.Common.Resources.GlobalResource},Microsoft.Extensions.Configuration.IConfiguration,DigitalWare.Facturacion.Domain.Services.ICategoryService)">
+            <summary>
+            Constructor of Category controller
+            </summary>
+            <param name="globalLocalizer"></param>
+            <param name="configuration"></param>
+            <param name="categoryService"></param>
+        </member>
+        <member name="T:DigitalWare.Facturacion.WebApi.Controllers.CustomerController">
+            <summary>
+            Controller to Customer
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.CustomerController._globalLocalizer">
+            <summary>
+            IStringLocalizer
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.CustomerController._configuration">
+            <summary>
+            IConfiguration
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.CustomerController._customerService">
+            <summary>
+            ICustomerService
+            </summary>
+        </member>
+        <member name="M:DigitalWare.Facturacion.WebApi.Controllers.CustomerController.#ctor(Microsoft.Extensions.Localization.IStringLocalizer{DigitalWare.Facturacion.Common.Resources.GlobalResource},Microsoft.Extensions.Configuration.IConfiguration,DigitalWare.Facturacion.Domain.Services.ICustomerService)">
+            <summary>
+            Constructor of Customer controller
+            </summary>
+            <param name="globalLocalizer"></param>
+            <param name="configuration"></param>
+            <param name="customerService"></param>
+        </member>
+        <member name="T:DigitalWare.Facturacion.WebApi.Controllers.OrderController">
+            <summary>
+            Controller to Order
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.OrderController._globalLocalizer">
+            <summary>
+            IStringLocalizer
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.OrderController._configuration">
+            <summary>
+            IConfiguration
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.OrderController._orderService">
+            <summary>
+            IOrderService
+            </summary>
+        </member>
+        <member name="M:DigitalWare.Facturacion.WebApi.Controllers.OrderController.#ctor(Microsoft.Extensions.Localization.IStringLocalizer{DigitalWare.Facturacion.Common.Resources.GlobalResource},Microsoft.Extensions.Configuration.IConfiguration,DigitalWare.Facturacion.Domain.Services.IOrderService)">
+            <summary>
+            Constructor of Order controller
+            </summary>
+            <param name="globalLocalizer"></param>
+            <param name="configuration"></param>
+            <param name="orderService"></param>
+        </member>
+        <member name="T:DigitalWare.Facturacion.WebApi.Controllers.ProductController">
+            <summary>
+            Controller to Product
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.ProductController._globalLocalizer">
+            <summary>
+            IStringLocalizer
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.ProductController._configuration">
+            <summary>
+            IConfiguration
+            </summary>
+        </member>
+        <member name="F:DigitalWare.Facturacion.WebApi.Controllers.ProductController._productService">
+            <summary>
+            IProductService
+            </summary>
+        </member>
+        <member name="M:DigitalWare.Facturacion.WebApi.Controllers.ProductController.#ctor(Microsoft.Extensions.Localization.IStringLocalizer{DigitalWare.Facturacion.Common.Resources.GlobalResource},Microsoft.Extensions.Configuration.IConfiguration,DigitalWare.Facturacion.Domain.Services.IProductService)">
+            <summary>
+            Constructor of Product controller
+            </summary>
+            <param name="globalLocalizer"></param>
+            <param name="configuration"></param>
+            <param name="productService"></param>
+        </member>
+    </members>
+</doc>
